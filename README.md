@@ -4,4 +4,5 @@ programmer @ roblox
 
 ## some things I wrote
 
-* [Luau Programming Style Guide](docs/luau-programming-style-guide.md)
+* [Luau programming style guide](docs/luau-programming-style-guide.md)
+* [Setting up rojo projects](docs/setting-up-rojo-projects.md)
